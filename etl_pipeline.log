@@ -1,0 +1,111 @@
+2025-02-28 16:51:47,256 - INFO - Extracting data from zip file...
+2025-02-28 16:51:47,256 - INFO - Data files extracted in 0:00:00
+2025-02-28 16:51:49,609 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source1.csv to S3 bucket deminiproj3 as Source/source1.csv
+2025-02-28 16:51:50,011 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source1.json to S3 bucket deminiproj3 as Source/source1.json
+2025-02-28 16:51:50,543 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source1.xml to S3 bucket deminiproj3 as Source/source1.xml
+2025-02-28 16:51:51,129 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source2.csv to S3 bucket deminiproj3 as Source/source2.csv
+2025-02-28 16:51:51,645 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source2.json to S3 bucket deminiproj3 as Source/source2.json
+2025-02-28 16:51:52,066 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source2.xml to S3 bucket deminiproj3 as Source/source2.xml
+2025-02-28 16:51:52,480 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source3.csv to S3 bucket deminiproj3 as Source/source3.csv
+2025-02-28 16:51:52,990 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source3.json to S3 bucket deminiproj3 as Source/source3.json
+2025-02-28 16:51:53,494 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source3.xml to S3 bucket deminiproj3 as Source/source3.xml
+2025-02-28 16:51:53,534 - INFO - Downloading Source/source1.csv from S3...
+2025-02-28 16:51:54,053 - INFO - Downloaded Source/source1.csv in 0:00:00.518857
+2025-02-28 16:51:54,053 - INFO - Downloading Source/source1.json from S3...
+2025-02-28 16:51:54,535 - INFO - Downloaded Source/source1.json in 0:00:00.481610
+2025-02-28 16:51:54,535 - INFO - Downloading Source/source1.xml from S3...
+2025-02-28 16:51:55,149 - INFO - Downloaded Source/source1.xml in 0:00:00.614485
+2025-02-28 16:51:55,149 - INFO - Downloading Source/source2.csv from S3...
+2025-02-28 16:51:55,656 - INFO - Downloaded Source/source2.csv in 0:00:00.506788
+2025-02-28 16:51:55,656 - INFO - Downloading Source/source2.json from S3...
+2025-02-28 16:51:56,169 - INFO - Downloaded Source/source2.json in 0:00:00.513143
+2025-02-28 16:51:56,169 - INFO - Downloading Source/source2.xml from S3...
+2025-02-28 16:51:56,562 - INFO - Downloaded Source/source2.xml in 0:00:00.392946
+2025-02-28 16:51:56,569 - INFO - Downloading Source/source3.csv from S3...
+2025-02-28 16:51:57,192 - INFO - Downloaded Source/source3.csv in 0:00:00.622245
+2025-02-28 16:51:57,192 - INFO - Downloading Source/source3.json from S3...
+2025-02-28 16:51:57,605 - INFO - Downloaded Source/source3.json in 0:00:00.413318
+2025-02-28 16:51:57,607 - INFO - Downloading Source/source3.xml from S3...
+2025-02-28 16:51:58,320 - INFO - Downloaded Source/source3.xml in 0:00:00.712671
+2025-02-28 16:51:58,320 - INFO - Extracting files from folder: downloaded_data
+2025-02-28 16:51:58,320 - INFO - Extracting CSV: downloaded_data\source1.csv
+2025-02-28 16:51:58,327 - INFO - Extracted CSV in 0:00:00.005027
+2025-02-28 16:51:58,331 - INFO - Extracting JSON: downloaded_data\source1.json
+2025-02-28 16:51:58,331 - INFO - Extracted JSON in 0:00:00
+2025-02-28 16:51:58,331 - INFO - Extracting XML: downloaded_data\source1.xml
+2025-02-28 16:51:58,331 - INFO - Extracted XML in 0:00:00
+2025-02-28 16:51:58,331 - INFO - Extracting CSV: downloaded_data\source2.csv
+2025-02-28 16:51:58,331 - INFO - Extracted CSV in 0:00:00
+2025-02-28 16:51:58,331 - INFO - Extracting JSON: downloaded_data\source2.json
+2025-02-28 16:51:58,343 - INFO - Extracted JSON in 0:00:00.011567
+2025-02-28 16:51:58,343 - INFO - Extracting XML: downloaded_data\source2.xml
+2025-02-28 16:51:58,350 - INFO - Extracted XML in 0:00:00.006668
+2025-02-28 16:51:58,350 - INFO - Extracting CSV: downloaded_data\source3.csv
+2025-02-28 16:51:58,352 - INFO - Extracted CSV in 0:00:00.002010
+2025-02-28 16:51:58,352 - INFO - Extracting JSON: downloaded_data\source3.json
+2025-02-28 16:51:58,358 - INFO - Extracted JSON in 0:00:00.006033
+2025-02-28 16:51:58,359 - INFO - Extracting XML: downloaded_data\source3.xml
+2025-02-28 16:51:58,359 - INFO - Extracted XML in 0:00:00
+2025-02-28 16:51:58,359 - INFO - Transforming data...
+2025-02-28 16:51:58,359 - INFO - Data transformation completed in 0:00:00
+2025-02-28 16:51:58,359 - INFO - Loading data into CSV: final_transformed_data.csv
+2025-02-28 16:51:58,364 - INFO - Data successfully loaded into final_transformed_data.csv
+2025-02-28 16:51:58,930 - INFO - Uploaded final_transformed_data.csv to S3 bucket deminiproj3 as Destination/final_transformed_data.csv
+2025-02-28 16:51:59,840 - ERROR - Error loading data into RDS: (pymysql.err.OperationalError) (1049, "Unknown database 'deminiproj3'")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-02-28 16:51:59,840 - INFO - ETL Pipeline Execution Completed
+2025-02-28 16:54:23,172 - INFO - Extracting data from zip file...
+2025-02-28 16:54:23,186 - INFO - Data files extracted in 0:00:00.014119
+2025-02-28 16:54:25,879 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source1.csv to S3 bucket deminiproj3 as Source/source1.csv
+2025-02-28 16:54:26,390 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source1.json to S3 bucket deminiproj3 as Source/source1.json
+2025-02-28 16:54:27,050 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source1.xml to S3 bucket deminiproj3 as Source/source1.xml
+2025-02-28 16:54:27,623 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source2.csv to S3 bucket deminiproj3 as Source/source2.csv
+2025-02-28 16:54:28,228 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source2.json to S3 bucket deminiproj3 as Source/source2.json
+2025-02-28 16:54:28,852 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source2.xml to S3 bucket deminiproj3 as Source/source2.xml
+2025-02-28 16:54:29,477 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source3.csv to S3 bucket deminiproj3 as Source/source3.csv
+2025-02-28 16:54:30,085 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source3.json to S3 bucket deminiproj3 as Source/source3.json
+2025-02-28 16:54:30,695 - INFO - Uploaded C:/Users/91798/Desktop/ME36/Projects/DE_Enhanced ETL Workflow with Python, AWS S3, RDS, and Glue/Source_files_to_upload_to_s3/source\source3.xml to S3 bucket deminiproj3 as Source/source3.xml
+2025-02-28 16:54:30,699 - INFO - Downloading Source/source1.csv from S3...
+2025-02-28 16:54:31,222 - INFO - Downloaded Source/source1.csv in 0:00:00.518113
+2025-02-28 16:54:31,223 - INFO - Downloading Source/source1.json from S3...
+2025-02-28 16:54:31,831 - INFO - Downloaded Source/source1.json in 0:00:00.608360
+2025-02-28 16:54:31,832 - INFO - Downloading Source/source1.xml from S3...
+2025-02-28 16:54:32,521 - INFO - Downloaded Source/source1.xml in 0:00:00.689708
+2025-02-28 16:54:32,521 - INFO - Downloading Source/source2.csv from S3...
+2025-02-28 16:54:33,179 - INFO - Downloaded Source/source2.csv in 0:00:00.657983
+2025-02-28 16:54:33,179 - INFO - Downloading Source/source2.json from S3...
+2025-02-28 16:54:33,774 - INFO - Downloaded Source/source2.json in 0:00:00.594985
+2025-02-28 16:54:33,774 - INFO - Downloading Source/source2.xml from S3...
+2025-02-28 16:54:34,333 - INFO - Downloaded Source/source2.xml in 0:00:00.559009
+2025-02-28 16:54:34,333 - INFO - Downloading Source/source3.csv from S3...
+2025-02-28 16:54:34,891 - INFO - Downloaded Source/source3.csv in 0:00:00.557594
+2025-02-28 16:54:34,891 - INFO - Downloading Source/source3.json from S3...
+2025-02-28 16:54:35,507 - INFO - Downloaded Source/source3.json in 0:00:00.616599
+2025-02-28 16:54:35,507 - INFO - Downloading Source/source3.xml from S3...
+2025-02-28 16:54:36,115 - INFO - Downloaded Source/source3.xml in 0:00:00.607369
+2025-02-28 16:54:36,134 - INFO - Extracting files from folder: downloaded_data
+2025-02-28 16:54:36,134 - INFO - Extracting CSV: downloaded_data\source1.csv
+2025-02-28 16:54:36,147 - INFO - Extracted CSV in 0:00:00.012882
+2025-02-28 16:54:36,147 - INFO - Extracting JSON: downloaded_data\source1.json
+2025-02-28 16:54:36,163 - INFO - Extracted JSON in 0:00:00.015888
+2025-02-28 16:54:36,163 - INFO - Extracting XML: downloaded_data\source1.xml
+2025-02-28 16:54:36,169 - INFO - Extracted XML in 0:00:00.000507
+2025-02-28 16:54:36,169 - INFO - Extracting CSV: downloaded_data\source2.csv
+2025-02-28 16:54:36,169 - INFO - Extracted CSV in 0:00:00
+2025-02-28 16:54:36,169 - INFO - Extracting JSON: downloaded_data\source2.json
+2025-02-28 16:54:36,185 - INFO - Extracted JSON in 0:00:00.015887
+2025-02-28 16:54:36,185 - INFO - Extracting XML: downloaded_data\source2.xml
+2025-02-28 16:54:36,185 - INFO - Extracted XML in 0:00:00
+2025-02-28 16:54:36,185 - INFO - Extracting CSV: downloaded_data\source3.csv
+2025-02-28 16:54:36,185 - INFO - Extracted CSV in 0:00:00
+2025-02-28 16:54:36,195 - INFO - Extracting JSON: downloaded_data\source3.json
+2025-02-28 16:54:36,197 - INFO - Extracted JSON in 0:00:00.002015
+2025-02-28 16:54:36,197 - INFO - Extracting XML: downloaded_data\source3.xml
+2025-02-28 16:54:36,197 - INFO - Extracted XML in 0:00:00
+2025-02-28 16:54:36,197 - INFO - Transforming data...
+2025-02-28 16:54:36,197 - INFO - Data transformation completed in 0:00:00
+2025-02-28 16:54:36,197 - INFO - Loading data into CSV: final_transformed_data.csv
+2025-02-28 16:54:36,211 - INFO - Data successfully loaded into final_transformed_data.csv
+2025-02-28 16:54:36,847 - INFO - Uploaded final_transformed_data.csv to S3 bucket deminiproj3 as Destination/final_transformed_data.csv
+2025-02-28 16:54:42,044 - INFO - Data loaded into RDS table etl_table
+2025-02-28 16:54:42,044 - INFO - ETL Pipeline Execution Completed
